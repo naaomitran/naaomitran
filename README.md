@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Naomi!
 
 <!--
 **naaomitran/naaomitran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Naomi and I am a 3rd year student at UBC. 
-I am majoring in Cognitive Systems: Computational Intelligence & Design.
+I'm a 3rd year student at UBC, studying cognitive systems: computational intelligence & design.
 
-I just finished my first personal project which has to do with keeping track of the items in your kitchen. You can find me on Instagram @creamricecooks to see this hobby of mine!
+Just finished my first personal project which has to do with keeping track of the items in your kitchen because food is the key to everyone's heart (especially mine).
+
+You can find me on Instagram @creamricecooks to see just how much I love food!
 
 
 
