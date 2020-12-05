@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 I'm a 3rd year student at UBC, studying cognitive systems: computational intelligence & design.
 
-Just finished my first personal project which has to do with keeping track of the items in your kitchen because food is the key to everyone's heart (especially mine).
+Just finished my first personal project which has to do with keeping track of the items in your kitchen because food is the key to everyone's heart (especially mine)!
 
-You can find me on Instagram @creamricecooks to see just how much I love food!
+You can find me on Instagram @creamricecooks to see just how much I love food 🍚
+
 
 
 
