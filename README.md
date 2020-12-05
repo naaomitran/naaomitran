@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Naomi and I am a 3rd year student at UBC. 
+I am majoring in Cognitive Systems: Computational Intelligence & Design.
+
+I just finished my first personal project which has to do with keeping track of the items in your kitchen. You can find me on Instagram @creamricecooks to see this hobby of mine!
+
+
+
